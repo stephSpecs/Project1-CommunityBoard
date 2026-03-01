@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-
+<a href = "https://imgur.com/gallery/best-restaurants-miami-community-board-voIjD75#">Video Walkthrough<a/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... 
