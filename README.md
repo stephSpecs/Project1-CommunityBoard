@@ -1,6 +1,6 @@
 # Web Development Project 1 - *Best Restaurants in Miami*
 
-Submitted by: **Stephanie Blanco**
+Submitted by: **Stephanie B**
 
 **Best Restaurants in Miami is a React/Vite based community board project that showcases popular dining locations in Miami. The application uses reusable components and props to display restaurant information in a clean, responsive card layout. Users can browse through restaurant options, view images and descriptions, and visit restaurant websites through external links. The project was built using React with Vite, JavaScript, and CSS Grid.**
 
